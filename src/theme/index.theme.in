@@ -1,0 +1,12 @@
+[X-GNOME-Metatheme]
+_Name=System
+_Comment=System default theme
+Type=X-GNOME-Metatheme
+Encoding=UTF-8
+GtkTheme=Slider
+MetacityTheme=Slider
+IconTheme=System
+NotificationTheme=slider
+CursorTheme=dmz-aa
+CursorSize=24
+
